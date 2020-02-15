@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    'hi there now changed'
+    'Just deployed the change from feature branch!'
   );
 }
 
