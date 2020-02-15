@@ -6,5 +6,5 @@ import App from './App';
 
 test('expect app to be truthy', () => {
 
-  expect(App).toBeEqualTo('force fail')
+  expect(App).toBeTruthy();
 });
